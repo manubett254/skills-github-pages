@@ -1,1 +1,4 @@
 theme: minima
+title: Audio-based Age and Gender Predictor
+author: manubett
+description: This project helps you identify a persons demographics based on their voice
